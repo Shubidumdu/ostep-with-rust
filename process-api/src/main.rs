@@ -2,5 +2,5 @@ mod example;
 mod homework;
 
 fn main() {
-    example::p3();
+    homework::h1();
 }
